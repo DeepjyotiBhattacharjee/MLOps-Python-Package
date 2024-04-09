@@ -22,7 +22,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.2"
 REPO_NAME = "MLOps-Python-Package"
-PKG_NAME= "mongodb_connect"
+PKG_NAME= "mongodb_connect_automation"
 AUTHOR_USER_NAME = "DeepjyotiBhattacharjee"
 AUTHOR_EMAIL = "deepjyotibhattacharjee217@gmail.com"
 
